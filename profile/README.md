@@ -1,4 +1,4 @@
-# *Kapital *
+# Kapital
 *Personalized Financial Product Recommendations*
 
 Kapital is a powerful platform designed to empower businesses and individuals with personalized recommendations for financial products. Our goal is to help users make informed decisions and achieve their financial goals.
