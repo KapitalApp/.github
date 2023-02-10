@@ -5,7 +5,7 @@ Kapital is a powerful open-source 🌐 platform designed to empower businesses a
 
 With Kapital, you can easily compare and choose the best financial products that suit your specific needs. Our platform provides you with a comprehensive overview of various financial products, including loans 💸, mortgages 🏠, credit cards 💳, insurance policies 🛡️ and more.
 
-Our state-of-the-art algorithms 🧠 analyze your financial situation and preferences to provide you with tailored recommendations 💡. Whether you are looking for a personal loan to cover an unexpected expense, a mortgage to buy a new home 🏠, or insurance to protect your assets 💼, Kapital can help you find the best options.
+Our state-of-the-art algorithms 🧠 analyze your financial situation and preferences to provide you with tailored recommendations. Whether you are looking for a personal loan to cover an unexpected expense, a mortgage to buy a new home 🏠, or insurance to protect your assets 💼, Kapital can help you find the best options.
 
 Here's what you can expect from Kapital:
 
