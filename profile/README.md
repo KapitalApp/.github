@@ -9,9 +9,9 @@ Our state-of-the-art algorithms 🧠 analyze your financial situation and prefer
 
 Here's what you can expect from Kapital:
 
-🔎 Personalized recommendations for financial products
-🔍 Comprehensive comparisons of different financial products
-💡 Easy-to-understand explanations of financial terms
-🔒 A secure platform that keeps your financial information confidential
+- 🔎 Personalized recommendations for financial products
+- 🔍 Comprehensive comparisons of different financial products
+- 💡 Easy-to-understand explanations of financial terms
+- 🔒 A secure platform that keeps your financial information confidential
 
 🚀 Stay ahead of the game and be the first to know when Kapital launches! Follow us on GitHub 🤝 to be updated on the latest developments in our journey towards providing personalized financial product recommendations.
